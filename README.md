@@ -2,7 +2,7 @@
 .NET Library for the AOL Instant Messenger OSCAR Protocol
 
 ## What is dotOscar?
-## NOTE:
+
 dotOscar is a .NET client library for AOL's Instant Messenger service. 
 
 ## Current Features
