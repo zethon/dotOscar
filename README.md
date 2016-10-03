@@ -1,4 +1,4 @@
-# dotOscar (defunct)
+# dotOscar (not maintained)
 .NET Library for the AOL Instant Messenger OSCAR Protocol
 
 ## What is dotOscar?
